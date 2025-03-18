@@ -10,7 +10,7 @@ Um aplicativo para extrair texto falado de vídeos usando reconhecimento de fala
 
 - **Processamento de Vídeos Locais**: Extraia texto de arquivos MP4, AVI, MKV, WEBM, MOV.
 - **Suporte ao YouTube**: Cole uma URL do YouTube e extraia o texto automaticamente.
-- **Multilíngue**: Suporte a vários idiomas incluindo Português do Brasil, Inglês, Espanhol e outros.
+- **Multilíngue**: Suporte a vários idiomas incluindo Português do Brasil, Inglês, Espanhol entre outros.
 - **Interface Gráfica Amigável**: Interface simples e intuitiva.
 - **Ajuste de Segmentos**: Configure o tamanho dos segmentos de áudio para melhorar a precisão.
 - **Organização Automática**: Cria automaticamente pastas para cada vídeo processado.
